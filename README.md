@@ -1,0 +1,1 @@
+![Online Shop Home Page](./assets/screenshots/Ekran%20Resmi%202024-10-20%2022.42.07.png)
